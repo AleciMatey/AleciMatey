@@ -1,13 +1,20 @@
-name: Generate Snake
+name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 */12 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the main branch
   push:
     branches:
     - main
-  workflow_dispatch:
+    
   
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -35,5 +42,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          git commit -m "Updated Snake Graph"
-          git push
