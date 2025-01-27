@@ -17,6 +17,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       # Step 2: Generate the snake graph
       - name: Generate Snake Animation
         uses: Platane/snk@v3
