@@ -27,14 +27,14 @@ Welcome to my GitHub profile! I'm passionate about web development and creating 
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
+## 🎁 My Rewards
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AleciMatey&theme=onedark)](https://github.com/AleciMatey)
+
 ## 📈 GitHub Stats
 
 ![AleciMatey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleciMatey&show_icons=true&theme=radical)
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/AleciMatey/AleciMatey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/AleciMatey/AleciMatey/output/github-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.gitmirror.com/AleciMatey/AleciMatey/output/github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/AleciMatey/AleciMatey/output/github-contribution-grid-snake-dark.svg)
