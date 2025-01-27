@@ -37,4 +37,4 @@ Welcome to my GitHub profile! I'm passionate about web development and creating 
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AleciMatey/AleciMatey/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](dist/snake.svg)
