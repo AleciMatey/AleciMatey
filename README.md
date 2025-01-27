@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about web development and creating 
 
 ## 📈 GitHub Stats
 
-![AleciMatey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleciMatey&show_icons=true&theme=radical)
+![AleciMatey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleciMatey&show_icons=true&theme=radical) ![AleciMatey's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleciMatey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
